@@ -1,0 +1,7 @@
+apiVersion: axp.axonect.com/v1
+kind: API
+metadata:
+  generation: 1
+  name: pet-store
+spec:
+  swaggerConfigMapName: petstore-store-1-swagger
